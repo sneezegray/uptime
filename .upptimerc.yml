@@ -15,6 +15,8 @@ sites:
     url: https://trollkohnskoppel.de
   - name: Jensen Niesgrau
     url: https://jensen-niesgrau.de
+  -name: Gösch
+    url: https://goesch.shop
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
