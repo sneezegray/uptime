@@ -11,6 +11,18 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+  - name: Nieharde-Konkammer
+    url: https://nieharde-kornkammer.de
+  - name: Nieharde-bio-gbr
+    url: https://Nieharde-bio-gbr.de
+  - name: Gute-Laune e.v.
+    url: https://gute-laune.org
+  - name: Zimmerei-cc
+    url: https://zimmerei-cc.de
+  - name: Trollkohnskoppel
+    url: https://trollkohnskoppel.de
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
   - name: IPv6 test
     url: forwardemail.net
     port: 80
