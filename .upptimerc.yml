@@ -17,6 +17,10 @@ sites:
     url: https://jensen-niesgrau.de
   - name: Gösch
     url: https://goesch.shop
+  - name: Inter Concept
+    url: https://inter-concept.org/
+  - name: Landology
+    url: https://landology.me/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
