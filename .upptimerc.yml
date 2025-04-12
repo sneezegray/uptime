@@ -15,7 +15,7 @@ sites:
     url: https://trollkohnskoppel.de
   - name: Jensen Niesgrau
     url: https://jensen-niesgrau.de
-  -name: Gösch
+  - name: Gösch
     url: https://goesch.shop
 
 status-website:
