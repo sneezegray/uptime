@@ -1,7 +1,7 @@
 url: https://jensen-niesgrau.de
-status: up
-code: 200
-responseTime: 360
-lastUpdated: 2025-10-02T23:09:25.433Z
+status: down
+code: 503
+responseTime: 253
+lastUpdated: 2025-10-02T23:51:21.623Z
 startTime: 2025-04-12T09:25:24.443Z
 generator: Upptime <https://github.com/upptime/upptime>
