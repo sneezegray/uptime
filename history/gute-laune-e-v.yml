@@ -1,7 +1,7 @@
 url: https://gute-laune.org
-status: up
-code: 200
-responseTime: 429
-lastUpdated: 2025-10-02T23:09:23.829Z
+status: down
+code: 503
+responseTime: 1153
+lastUpdated: 2025-10-03T04:46:56.317Z
 startTime: 2025-04-12T09:11:15.462Z
 generator: Upptime <https://github.com/upptime/upptime>
